@@ -4,4 +4,7 @@ I'm Nico — an Engineering Manager based in Zurich, originally from Bogotá, Co
 
 ---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nicobermudez&hide_border=true)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=nicobermudez&hide_border=true&theme=dark">
+  <img src="https://streak-stats.demolab.com?user=nicobermudez&hide_border=true" alt="GitHub Streak">
+</picture>
